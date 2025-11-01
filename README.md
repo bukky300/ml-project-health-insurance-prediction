@@ -34,22 +34,20 @@ Evaluation: MAE, RMSE, R² Score
 
 Simple input fields for all model features
 
-Real-time premium prediction
-
 Clean, responsive design
 
-Insightful visualizations
+Prediction on One Click!
 
 ##🚀 How to Run Locally
 ### Clone the repo
 git clone https://github.com/bukky300/ml-project-health-insurance-prediction
-cd health-insurance-prediction
+
 
 ### Install dependencies
 pip install -r requirements.txt
 
 ### Run the app
-streamlit run app.py
+streamlit run main.py
 
 
 Then open the local URL Streamlit provides (usually http://localhost:8501).
